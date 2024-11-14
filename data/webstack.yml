@@ -322,9 +322,9 @@
 
     - term: 博客论坛
       links:
-      - title: 百度贴吧
-          logo: 百度贴吧.jpg
+        - title: 百度贴吧
           url: https://tieba.baidu.com/index.html
+          logo: 百度贴吧.jpg
           description: 百度贴吧。
         - title: 阮一峰的网络日志
           url: https://www.ruanyifeng.com/blog/
