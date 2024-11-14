@@ -134,7 +134,7 @@ var RunHours = Math.floor(RunDateM%(24*3600*1000)/(3600*1000));
 var RunMinutes = Math.floor(RunDateM%(24*3600*1000)%(3600*1000)/(60*1000));
 var RunSeconds = Math.round(RunDateM%(24*3600*1000)%(3600*1000)%(60*1000)/1000);
 var RunTime = RunDays + "天" + RunHours + "时" + RunMinutes + "分" + RunSeconds + "秒";
-document.getElementById(id).innerHTML = "小新的导航站一直在追随大家的步伐啊：" + RunTime;
+document.getElementById(id).innerHTML = "小新一直在追随着前辈们的步伐：" + RunTime;
 }
 setInterval("ShowRunTime('RunTime')", 1000);
 </script>
@@ -154,8 +154,8 @@ setInterval("ShowRunTime('RunTime')", 1000);
 
         Toast.fire({
             icon: 'success',
-            title: '网页正式发布，欢迎访问',
-            text: '左下角提交网站，收录！',
+            title: '网站正式上线啦，欢迎访问',
+            text: '😄',
             heightAuto: 'false'
         })
 </script>

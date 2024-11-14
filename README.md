@@ -1,6 +1,6 @@
 ---
 title: "webstack"
-date: 2024-11-14 T16:18:00
+date: 2024-11-14 16:00:00
 draft: true
 web: https://nav.crayon.vip
 ---
@@ -31,5 +31,6 @@ web: https://nav.crayon.vip
 
 - [github下载安装对应系统版本的hugo] (https://github.com/gohugoio/hugo)
 - hugo version   查看hugo版本
+- hugo server   运行预览效果
 - hugo -D   打包项目
 - 项目运行和打包输出目录  /docs

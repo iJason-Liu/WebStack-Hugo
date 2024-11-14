@@ -65,9 +65,17 @@
           logo: 1panel.png
           url: https://1panel.cn/
           description: 1Panel 是新一代的 Linux 服务器运维管理面板。
+        - title: 宝塔
+          logo: bt.png
+          url: https://bt.cn/
+          description: 宝塔,安全高效的服务器运维面板。
 
     - term: 办公学习
       links:
+        - title: 金山词霸
+          logo: 金山词霸.png
+          url: https://www.iciba.com/
+          description: 金山词霸。
         - title: 有道词典
           logo: 有道词典.png
           url: https://www.youdao.com/
@@ -113,10 +121,6 @@
 
     - term: 游戏竞技
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
         - title: Steam
           logo: Steam.png
           url: https://store.steampowered.com
@@ -124,6 +128,10 @@
         - title: Wegame
           logo: Wegame.png
           url: https://www.wegame.com.cn
+          description: 一起更好玩。
+        - title: Epic
+          logo: epic.png
+          url: https://store.epicgames.com/zh-CN
           description: 一起更好玩。
       
 - taxonomy: 素材资源
@@ -216,21 +224,6 @@
           logo: Fondertype.png
           description: 方正字库官方网站。
 
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: https://www.officeplus.cn/Template/Home.shtml
-          logo: officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: https://www.ypppt.com/
-          logo: ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
-        - title: PPT+
-          url: https://www.pptplus.cn/
-          logo: pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
-
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
@@ -262,6 +255,10 @@
 
     - term: 在线配色
       links:
+        - title: 中国色
+          url: https://www.zhongguose.com/
+          logo: 中国色.png
+          description: 中国色!
         - title: coolors
           url: https://coolors.co/
           logo: coolors.png
@@ -285,9 +282,21 @@
           url: https://tinypng.com/
           logo: tinypng.png
           description: Optimize your images with a perfect balance in quality and file size.
+        - title: 奇迹秀
+          url: https://www.qijishow.com/
+          logo: qijisiu.png
+          description: 奇迹秀.
+        - title: convertio.co
+          url: https://convertio.co/zh/
+          logo: convertio.png
+          description: convertio。
         
     - term: 谷歌插件
       links:
+        - title: tampermonkey
+          url: https://www.tampermonkey.net/
+          logo: tampermonkey.png
+          description: tampermonkey.
         - title: wappalyzer
           url: https://www.wappalyzer.com/
           logo: wappalyzer.png
@@ -297,10 +306,10 @@
           logo: csspeeper.png
           description: Smart CSS viewer tailored for Designers.
        
-- taxonomy: 资讯学习
+- taxonomy: 知识海洋
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 资讯书籍
+    - term: 阅读学习
       links:
         - title: 微信读书
           url: https://weread.qq.com/
@@ -313,6 +322,10 @@
 
     - term: 博客论坛
       links:
+      - title: 百度贴吧
+          logo: 百度贴吧.jpg
+          url: https://tieba.baidu.com/index.html
+          description: 百度贴吧。
         - title: 阮一峰的网络日志
           url: https://www.ruanyifeng.com/blog/
           logo: 阮一峰.png

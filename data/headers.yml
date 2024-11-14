@@ -10,7 +10,9 @@
   icon: fa fa-cog
   link: ""
   list:
-    - name: 源码
-      url: "#"
+    - name: github
+      url: "https://github.com/iJason-Liu"
     - name: 图标
+      url: "#"
+    - name: 关于
       url: "#"
