@@ -6,13 +6,17 @@
   icon: fa fa-book
   link: https://crayon.vip
 
-- item: 配置
+- item: 博客
+  icon: fa fa-blog
+  link: http://blog.crayon.vip
+
+- item: 关于
   icon: fa fa-cog
   link: ""
   list:
-    - name: github
-      url: "https://github.com/iJason-Liu"
-    - name: 图标
-      url: "#"
+    - name: 源码
+      icon: fa fa-github
+      url: "https://github.com/iJason-Liu/WebStack-Hugo"
     - name: 关于
+      icon: fa fa-info-circle
       url: "#"
