@@ -55,14 +55,14 @@
       logo: chatgpt.png
       url: https://openai.com/
       description: Ask ChatGPT anything.
+    - title: DeepSeek
+      logo: deepseek.png
+      url: https://chat.deepseek.com/
+      description: 我是 DeepSeek，很高兴见到你！
     - title: 尝鲜派
       logo: iBeta.png
       url: https://betahub.cn/
       description: 尝鲜派，iOS固件更新
-    - title: 超雪
-      logo: 超雪.png
-      url: https://heicard.com/
-      description: 开创iPhone薄膜卡贴先河
 
 - taxonomy: 编程开发
   icon: fas fa-flask fa-lg
@@ -73,6 +73,10 @@
           logo: 阿里云.png
           url: https://www.aliyun.com/
           description: 上云就上阿里云
+        - title: 云效工作台
+          logo: 阿里云.png
+          url: https://devops.aliyun.com/
+          description: 一站式 DevOps 平台，包含项目协作、代码管理等
         - title: 腾讯云
           logo: 腾讯云.png
           url: https://cloud.tencent.com/
@@ -163,7 +167,7 @@
           logo: bootstrap.png
           url: https://www.bootcss.com/
           description: 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单
-        - title: canva可画
+        - title: Canva可画
           logo: canvas.png
           url: https://www.canva.cn/
           description: 使用Canva可画，轻松创建并分享专业设计
@@ -182,7 +186,7 @@
           logo: 快手开放平台.png
           url: https://mp.kuaishou.com/
           description: 快手开放平台
-        - title: apifox
+        - title: Apifox
           logo: apifox.png
           url: https://apifox.com/
           description: API 设计、开发、测试一体化协作平台
@@ -190,7 +194,7 @@
           logo: apipost.png
           url: https://v7.apipost.cn/
           description: 基于协作，不止于API文档、调试、Mock、自动化测试
-        - title: codepen
+        - title: CodePen
           logo: codepen.png
           url: https://codepen.io/
           description: The best place to build, test, and discover front-end code.
@@ -214,11 +218,11 @@
           logo: 菜鸟教程.png
           url: https://www.runoob.com/
           description: 菜鸟教程
-        - title: google
+        - title: Google
           logo: google.png
           url: https://www.google.com/
           description: 谷歌搜索
-        - title: bing
+        - title: Bing
           logo: Bing.png
           url: https://www.bing.com/?mkt=zh-CN
           description: 微软Bing搜索
@@ -317,7 +321,7 @@
           url: https://firmware-selector.openwrt.org/
           logo: OpenWrt.png
           description: 下载适用于您设备的 OpenWrt 固件
-        - title: immortalwrt
+        - title: ImmortalWrt
           url: https://firmware-selector.immortalwrt.org/
           logo: immortalwrt.ico
           description: 基于OpenWrt编译的路由器固件
@@ -363,7 +367,7 @@
 
     - term: 其他工具
       links:
-        - title: tampermonkey
+        - title: TamperMonkey
           url: https://www.tampermonkey.net/
           logo: 油猴.png
           description: tampermonkey.
@@ -376,7 +380,7 @@
           logo: convertio.png
           description: 将您的文件转换成任意格式
         - title: Appstorrent
-          url: https://Appstorrent.com
+          url: https://Appstorrent.ru
           logo: appstorrent.png
           description: Appstorrent.
         - title: Rutracker
@@ -403,10 +407,14 @@
           url: https://www.ios222.com/
           logo: 牛蛙助手.png
           description: 一款iOS设备必备的工具
-        - title: Aneeo
+        - title: Aneeo Blog
           url: https://aneeo.com/
           logo: aneeo.png
           description: 何以解忧，唯有暴富！
+        - title: 超雪
+          logo: 超雪.png
+          url: https://heicard.com/
+          description: 开创iPhone薄膜卡贴先河
 
 - taxonomy: 休闲娱乐
   icon: fas fa-film fa-lg
@@ -448,7 +456,7 @@
           logo: steam.png
           url: https://store.steampowered.com
           description: 欢迎来到Steam
-        - title: Wegame
+        - title: WeGame
           logo: wegame.png
           url: https://www.wegame.com.cn
           description: 一起更好玩
