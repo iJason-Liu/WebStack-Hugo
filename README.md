@@ -30,6 +30,9 @@ web: https://nav.crayon.vip
 ## 如何运行
 
 - [github下载安装对应系统版本的hugo] (https://github.com/gohugoio/hugo)
+- 下载完成后，使用 tar 命令解压文件：tar -xvzf hugo_extended_0.118.2_Linux-64bit.tar.gz
+- 移动 Hugo 到系统路径：sudo mv hugo /usr/local/bin/
+- 验证安装：hugo version
 - hugo version   查看hugo版本
 - hugo server   运行预览效果
 - hugo -D   打包项目
